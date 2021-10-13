@@ -21,7 +21,7 @@ Ahmed, N., Rahman, R. M., Adnan, M. S. G., & Ahmed, B. (2021). Dense prediction 
 
 BibTex reference 
 
-'''
+````
 @article{ahmed2021dense,
   title={Dense prediction of label noise for learning building extraction from aerial drone imagery},
   author={Ahmed, Nahian and Rahman, Rashedur M and Adnan, Mohammed Sarfaraz Gani and Ahmed, Bayes},
@@ -30,4 +30,4 @@ BibTex reference
   year={2021},
   publisher={Taylor \& Francis}
 }
-'''
+````
