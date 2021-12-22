@@ -14,7 +14,7 @@ Models
 * (F)alse (P)ositive (E)rror (M)atrix model : FP-EM-model.h5
 * (F)alse (N)egative (E)rror (M)atrix model : FN-EM-model.h5
 
-Please cite the following publication if you are using these models and/or data in your work
+Details:
 
 Ahmed, N., Rahman, R. M., Adnan, M. S. G., & Ahmed, B. (2021). **Dense prediction of label noise for learning building extraction from aerial drone imagery**. _International Journal of Remote Sensing_, 1-24. https://doi.org/10.1080/01431161.2021.1973685
 
