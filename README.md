@@ -16,7 +16,7 @@ Models
 
 Details:
 
-Ahmed, N., Rahman, R. M., Adnan, M. S. G., & Ahmed, B. (2021). **Dense prediction of label noise for learning building extraction from aerial drone imagery**. _International Journal of Remote Sensing_, 1-24. https://doi.org/10.1080/01431161.2021.1973685
+N. Ahmed, R. M. Rahman, M. S. G. Adnan, & B. Ahmed (2021). **Dense prediction of label noise for learning building extraction from aerial drone imagery**. _International Journal of Remote Sensing_,  _42_(23), 8906-8929. https://doi.org/10.1080/01431161.2021.1973685
 
 
 BibTex reference 
@@ -26,7 +26,9 @@ BibTex reference
   title={Dense prediction of label noise for learning building extraction from aerial drone imagery},
   author={Ahmed, Nahian and Rahman, Rashedur M and Adnan, Mohammed Sarfaraz Gani and Ahmed, Bayes},
   journal={International Journal of Remote Sensing},
-  pages={1--24},
+  volume={42},
+  number={23},
+  pages={8906--8929},
   year={2021},
   publisher={Taylor \& Francis}
 }
